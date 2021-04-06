@@ -1,0 +1,7 @@
+C:\Users\LapStore\source\repos\OOPLab3.3B\OOPLab3.3B\bin\Debug\OOPLab3.3B.exe.config
+C:\Users\LapStore\source\repos\OOPLab3.3B\OOPLab3.3B\bin\Debug\OOPLab3.3B.exe
+C:\Users\LapStore\source\repos\OOPLab3.3B\OOPLab3.3B\bin\Debug\OOPLab3.3B.pdb
+C:\Users\LapStore\source\repos\OOPLab3.3B\OOPLab3.3B\obj\Debug\OOPLab3.3B.csprojAssemblyReference.cache
+C:\Users\LapStore\source\repos\OOPLab3.3B\OOPLab3.3B\obj\Debug\OOPLab3.3B.csproj.CoreCompileInputs.cache
+C:\Users\LapStore\source\repos\OOPLab3.3B\OOPLab3.3B\obj\Debug\OOPLab3.3B.exe
+C:\Users\LapStore\source\repos\OOPLab3.3B\OOPLab3.3B\obj\Debug\OOPLab3.3B.pdb
